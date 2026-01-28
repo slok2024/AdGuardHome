@@ -1,3 +1,5 @@
+AdGuard Home 是一款全网范围内的开源网络过滤与广告拦截服务器。
+
 AdGuardHome for win7
 
 使用go 1.25.6魔改版进行编译，并使用upx进行了压缩，可在win7系统使用。
