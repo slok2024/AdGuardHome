@@ -1,6 +1,6 @@
 AdGuardHome for win7
 
-使用go 1.25.6魔改版进行编译，可在win7系统使用。
+使用go 1.25.6魔改版进行编译，并使用upx进行了压缩，可在win7系统使用。
 
 <img width="1101" height="574" alt="image" src="https://github.com/user-attachments/assets/3a37a73d-3d08-450b-b102-cfc43bcc4a39" />
 
